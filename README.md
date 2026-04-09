@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ester Santos Oliveira, tenho 20 anos. Concluí o ensino médio na Etec Rubens de Faria e Souza, com o curso técnico em Mecatrônica. Posteriormente, cursei Análise e Desenvolvimento de Sistemas (ADS). Atualmente, estou cursando Engenharia da Computação na Anhanguera.
+Me chamo Ester Santos Oliveira, tenho 20 anos. Concluí o ensino médio integrado ao curso técnico em Mecatrônica pela Etec Rubens de Faria e Souza. Posteriormente, cursei Desenvolvimento de Sistemas pela Etec Fernando Prestes. Atualmente, estou cursando Engenharia da Computação pela Anhanguera.
 
 ---
 
